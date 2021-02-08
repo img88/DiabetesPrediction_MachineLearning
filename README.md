@@ -6,6 +6,7 @@ Diabetes prediction using machine learning
 Dataset: https://www.kaggle.com/uciml/pima-indians-diabetes-database
 
 ## I. Requirements:
+- Anaconda/Jupyter Notebook
 - Python 3.8
 - Scikit-learn
 - Pandas
